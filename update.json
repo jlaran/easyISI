@@ -1,0 +1,7 @@
+{
+  "packageManager": "github",
+  "name": "easyISI",
+  "repo": "jlaran/easyISI",
+  "files": {
+    "include": ["easyISI.min.js"]
+  }
